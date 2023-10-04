@@ -10,3 +10,4 @@ arr2 = arr.copy()
 for index,row in enumerate(arr):
     print(index)
 
+print("hello")
